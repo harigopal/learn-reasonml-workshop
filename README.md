@@ -6,7 +6,7 @@ We updated the exercises to be useful for someone interested in learning Reason.
 
 # Setting Up
 
-1. Install [reason-cli](https://reasonml.github.io/docs/en/global-installation.html) globally. The bundles are larger than 100MB and `npm` does not show progress while downloading. 
+1. Install [reason-cli](https://reasonml.github.io/docs/en/global-installation.html) globally. The bundles are larger than 100MB and `npm` does not show progress while downloading.
 
 2. The recommended editor is `VSCode` along with the [vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml) extension. If you prefer a different editor check the instructions for [other supported editors](https://reasonml.github.io/docs/en/editor-plugins.html)
 
@@ -26,3 +26,7 @@ After completing each exercise, run its test. For example for the second exercis
 
 This `.bs.js` file is your Reason program `.re` compiled to Javascript. `.bs` stands for the [bucklescript compiler](https://bucklescript.github.io/). You should read the `.bs.js` file for each exercise and compare the Javascript output to the original Reason code. This will help you develop an intuition for the language very quickly.
 
+## Comments
+
+  1. Maybe introduce `|>` around Ex. 4 or 5?
+  2. Ex. 6 says *The "_" pattern means "could be anything".*. Is that true? I thought `_` was just an unused binding ignored by the compiler.
