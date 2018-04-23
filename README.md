@@ -32,3 +32,4 @@ This `.bs.js` file is your Reason program `.re` compiled to Javascript. `.bs` st
   2. Ex. 6 says *The "_" pattern means "could be anything".*. Is that true? I thought `_` was just an unused binding ignored by the compiler.
   3. What's the *point* of Ex. 12? Introducing *infinity* and *neg_infinity*? Could do more, maybe?
   4. Did I miss the purpose of Ex. 13? What did this teach me?
+  5. In Ex. 14, maybe add a hint that you can use `|` as separator to match multiple patterns?
