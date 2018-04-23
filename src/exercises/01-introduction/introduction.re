@@ -32,4 +32,4 @@
 
   Try it out and move on to the next exercise!
  */
-let () = print_endline("Hello, World!);
+let () = print_endline("Hello, World!");
