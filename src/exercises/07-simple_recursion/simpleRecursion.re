@@ -20,7 +20,10 @@ let rec addEveryNumberUpTo = x => {
  */
 let rec factorial = x => {
   assert (x >= 0);
-  failwith("For you to implement");
+  switch (x) {
+  | 0 => 1
+  | _ => x * factorial(x - 1)
+  };
 };
 
 Test.runAll([
