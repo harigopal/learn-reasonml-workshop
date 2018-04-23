@@ -36,3 +36,4 @@ This `.bs.js` file is your Reason program `.re` compiled to Javascript. `.bs` st
   6. Ex. 15: _The signature for a tuple is written by separating all the types within the tuple by a *._ Wut? In OCaml, maybe?
   7. Ex. 15: Mention _destructuring_ at this point, maybe?
   8. Ex. 15: `add` function isn't tested.
+  9. Ex. 16: Mention the term _punning_?
