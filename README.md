@@ -39,3 +39,6 @@ This `.bs.js` file is your Reason program `.re` compiled to Javascript. `.bs` st
   9. Ex. 16: Mention the term _punning_?
   10. The test at the end of Ex. 18 seems to bear little relation to its content.
   11. What's `prelude.re` doing in Ex. 20?
+  12. Line breaks seem to be missing in first code example in Ex. 21.
+  13. `List.fold_left` has already been used in an earlier example. Is its more detailed description here on purpose?
+  14. In Ex. 21, `ref` is mentioned for the first time with no explanation.
