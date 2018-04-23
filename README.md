@@ -42,3 +42,5 @@ This `.bs.js` file is your Reason program `.re` compiled to Javascript. `.bs` st
   12. Line breaks seem to be missing in first code example in Ex. 21.
   13. `List.fold_left` has already been used in an earlier example. Is its more detailed description here on purpose?
   14. In Ex. 21, `ref` is mentioned for the first time with no explanation.
+  15. Some wonky comments at the beginning of Ex. 22.
+  16. Ex. 22 says *If we don't care about an argument we can ignore it using "= _"*. You can also just not mention 'em? `({firstName, lastName})` works too. Cleaner, too.
