@@ -38,3 +38,4 @@ This `.bs.js` file is your Reason program `.re` compiled to Javascript. `.bs` st
   8. Ex. 15: `add` function isn't tested.
   9. Ex. 16: Mention the term _punning_?
   10. The test at the end of Ex. 18 seems to bear little relation to its content.
+  11. What's `prelude.re` doing in Ex. 20?
